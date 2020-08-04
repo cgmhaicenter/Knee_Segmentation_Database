@@ -13,7 +13,9 @@ Femur and Tibia segmentation information was determined by using the BoneFinder 
 
 Range for Image size: (1300 ~ 3400) x (800 ~ 2500)
 
-Images type: PNG
+Images type: PNG (8 )
+
+Images channel: 1
 
 
 |Image|Annotation|Image|Annotation|Image|Annotation|
